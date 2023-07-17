@@ -12,7 +12,6 @@ Domain Checker is a command-line tool written in Python that allows you to check
 - ✅ Specify custom User-Agent and headers for the HTTP requests.
 - ✅ Follow redirects option to allow following HTTP redirects.
 - ✅ Verbose output to display detailed information about each request.
-- ✅ Interactive banner with ASCII art.
 
 ## 🚀 Installation
 
