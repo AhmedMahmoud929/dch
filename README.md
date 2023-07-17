@@ -23,7 +23,7 @@ Domain Checker is a command-line tool written in Python that allows you to check
 
 ## 💡 Usage
 
-```python domain_checker.py -i input.txt [OPTIONS]```
+```python dch.py -i input.txt [OPTIONS]```
 
 
 ### Options
