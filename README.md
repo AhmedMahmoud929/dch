@@ -1,4 +1,4 @@
-# ✨ Domain Checker ✨
+# ✨ Domain Checker (DCH) ✨
 
 Domain Checker is a command-line tool written in Python that allows you to check the status of multiple domains at once. It sends HTTP requests to each domain and displays the response status code along with additional information.
 
@@ -35,13 +35,12 @@ Domain Checker is a command-line tool written in Python that allows you to check
 - `-ua, --user-agent`: Sets the custom User-Agent header value.
 - `-ch, --custom-header`: Sets a custom header in the format "Name: Value".
 - `-v, --verbose`: Enables verbose output, providing more detailed information about each request.
-- `--follow-redirects`: Follows HTTP redirects.
 
 ### Example
 
 Check the status of domains listed in `input.txt`, display only live domains, and save the results to `output.txt`:
 
-```python domain_checker.py -i input.txt -l -o output.txt```
+```python dch.py -i input.txt -l -o output.txt```
 
 
 ## 📝 License
