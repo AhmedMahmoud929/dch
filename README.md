@@ -60,5 +60,5 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 ## 📧 Contact
 
-For any inquiries or questions, please contact [your email or username].
+For any inquiries or questions, please contact Alrba2003@gmail.com
 
